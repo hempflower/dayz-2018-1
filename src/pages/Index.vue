@@ -75,7 +75,7 @@
     <div class="row justify-center" style="margin-top:32px">
       <div class="col-xs-8 col-sm-6 col-md-4 col-lg-3">
         <q-card class="my-card">
-          <q-img height="300px" src="../assets/zhanghaijia.jpg" />
+          <q-img height="300px" src="~assets/zhanghaijia.jpg" />
           <q-card-section>
             <div class="text-h4">
               张海佳老师 <q-badge align="top">班主任</q-badge>
@@ -86,7 +86,7 @@
       </div>
       <div class="col-xs-8 col-sm-6 col-md-4 col-lg-3">
         <q-card class="my-card">
-          <q-img height="300px" src="../assets/chengyi.jpg" />
+          <q-img height="300px" src="~assets/chengyi.jpg" />
           <q-card-section>
             <div class="text-h4">
               程毅老师
@@ -97,7 +97,7 @@
       </div>
       <div class="col-xs-8 col-sm-6 col-md-4 col-lg-3">
         <q-card class="my-card">
-          <q-img height="300px" src="../assets/dingyuefu.jpg" />
+          <q-img height="300px" src="~assets/dingyuefu.jpg" />
           <q-card-section>
             <div class="text-h4">
               丁跃富老师
@@ -108,7 +108,7 @@
       </div>
       <div class="col-xs-8 col-sm-6 col-md-4 col-lg-3">
         <q-card class="my-card">
-          <q-img height="300px" src="../assets/yeshuhe.jpg" />
+          <q-img height="300px" src="~assets/yeshuhe.jpg" />
           <q-card-section>
             <div class="text-h4">
               叶树和老师
@@ -119,7 +119,7 @@
       </div>
       <div class="col-xs-8 col-sm-6 col-md-4 col-lg-3">
         <q-card class="my-card">
-          <q-img height="300px" src="../assets/zhoucuifeng.jpg" />
+          <q-img height="300px" src="~assets/zhoucuifeng.jpg" />
           <q-card-section>
             <div class="text-h4">
               周翠峰老师
@@ -130,7 +130,7 @@
       </div>
       <div class="col-xs-8 col-sm-6 col-md-4 col-lg-3">
         <q-card class="my-card">
-          <q-img height="300px" src="../assets/liuyanmei.jpg" />
+          <q-img height="300px" src="~assets/liuyanmei.jpg" />
           <q-card-section>
             <div class="text-h4">
               刘艳梅老师
